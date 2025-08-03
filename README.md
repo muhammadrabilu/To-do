@@ -1,4 +1,4 @@
-Todo App
+__Todo App__
 A simple Android Todo application built using Jetpack Compose, following the MVVM architecture. The app integrates with the DummyJSON API for login and todo creation endpoints, utilizes Dagger Hilt for dependency injection, and RoomDB for local caching.
 Features
 
